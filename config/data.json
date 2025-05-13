@@ -1,19 +1,24 @@
 {
 	"theses": {
 		"0": {
-			"l": "Hunde sind süß.",
-			"s": "Hundis?",
-			"x": "Weil es so ist!"
+			"l": "Schokoladeneiscreme ist die beste Sorte die es gibt!",
+			"s": "Schokoeis",
+			"x": "Schokoladig ist toll!"
+		},
+		"1": {
+			"l": "Erdbeereiscreme ist die beste Sorte!",
+			"s": "Erdbeereis",
+			"x": "Erbeereis ist viel besser, weil es so fruchtig ist."
 		}
 	},
 	"lists": {
 		"0": {
-			"name": "Tierschutzpartei",
-			"name_x": "Tieros"
+			"name": "Schokis",
+			"name_x": ""
 		},
 		"1": {
-			"name": "Allesesser",
-			"name_x": "nom nom"
+			"name": "Fruchtis",
+			"name_x": ""
 		}
 	},
 	"answers": {
@@ -21,11 +26,19 @@
 			"0": {
 				"selection": "a",
 				"statement": ""
+			},
+			"1": {
+				"selection": "c",
+				"statement": ""
 			}
 		},
 		"1": {
 			"0": {
-				"selection": "c",
+				"selection": "d",
+				"statement": ""
+			},
+			"1": {
+				"selection": "d",
 				"statement": ""
 			}
 		}
