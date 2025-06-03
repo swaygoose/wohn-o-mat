@@ -18,26 +18,6 @@
 	},
 	"lists": {
 		"0": {
-			"name": "{
-	"theses": {
-		"0": {
-			"l": "Ich habe gerne meinen eigenen, privaten Rückzugsort.",
-			"s": "",
-			"x": ""
-		},
-		"1": {
-			"l": "Ich mache mir öfters Gedanken darüber, wie ich im Alltag Hilfe bekommen kann. ",
-			"s": "",
-			"x": ""
-		},
-		"2": {
-			"l": "Ich lege Wert auch ein enges soziales Wohnumfeld.",
-			"s": "",
-			"x": ""
-		}
-	},
-	"lists": {
-		"0": {
 			"name": "Wohnung",
 			"name_x": "Wohnung"
 		},
@@ -67,29 +47,29 @@
 		},
 		"1": {
 			"0": {
-				"selection": "d",
+				"selection": "b",
 				"statement": ""
 			},
 			"1": {
-				"selection": "d",
+				"selection": "a",
 				"statement": ""
 			},
 			"2": {
-				"selection": "d",
+				"selection": "a",
 				"statement": ""
 			}
 		},
 		"2": {
 			"0": {
-				"selection": "d",
+				"selection": "a",
 				"statement": ""
 			},
 			"1": {
-				"selection": "d",
+				"selection": "a",
 				"statement": ""
 			},
 			"2": {
-				"selection": "d",
+				"selection": "b",
 				"statement": ""
 			}
 		}
