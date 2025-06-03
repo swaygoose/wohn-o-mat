@@ -2,17 +2,17 @@
 	"theses": {
 		"0": {
 			"l": "Ich habe gerne meinen eigenen, privaten Rückzugsort.",
-			"s": "",
+			"s": "Privatheit",
 			"x": ""
 		},
 		"1": {
-			"l": "Ich mache mir öfters Gedanken darüber, wie ich im Alltag Hilfe bekommen kann. ",
-			"s": "",
+			"l": "Ich mache mir öfters Gedanken darüber, wie ich im Alltag Hilfe bekommen kann.",
+			"s": "Alltagshilfe",
 			"x": ""
 		},
 		"2": {
 			"l": "Ich lege Wert auch ein enges soziales Wohnumfeld.",
-			"s": "",
+			"s": "Wohnumfeld",
 			"x": ""
 		}
 	},
@@ -26,8 +26,8 @@
 			"name_x": "Gemeinschaftswohnen"
 		},
 		"2": {
-			"name": "Bereutes, barrierefreies Wohnen",
-			"name_x": "Bereutes, barrierefreies Wohnen"
+			"name": "Betreutes Wohnen",
+			"name_x": "Betreutes Wohnen"
 		}
 	},
 	"answers": {
