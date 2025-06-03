@@ -1,23 +1,32 @@
 {
 	"theses": {
 		"0": {
-			"l": "Schokoladeneiscreme ist die beste Sorte die es gibt!",
-			"s": "Schokoeis",
-			"x": "Schokoladig ist toll!"
+			"l": "Ich habe gerne meinen eigenen, privaten Rückzugsort.",
+			"s": "",
+			"x": ""
 		},
 		"1": {
-			"l": "Erdbeereiscreme ist die beste Sorte!",
-			"s": "Erdbeereis",
-			"x": "Erbeereis ist viel besser, weil es so fruchtig ist."
+			"l": "Ich mache mir öfters Gedanken darüber, wie ich im Alltag Hilfe bekommen kann. ",
+			"s": "",
+			"x": ""
+		},
+		"2": {
+			"l": "Ich lege Wert auch ein enges soziales Wohnumfeld.",
+			"s": "",
+			"x": ""
 		}
 	},
 	"lists": {
 		"0": {
-			"name": "Schokis",
+			"name": "Wohnung",
 			"name_x": ""
 		},
 		"1": {
-			"name": "Fruchtis",
+			"name": "Gemeinschaftswohnen",
+			"name_x": ""
+		},
+		"2": {
+			"name": "Bereutes, barrierefreies Wohnen",
 			"name_x": ""
 		}
 	},
@@ -30,15 +39,37 @@
 			"1": {
 				"selection": "c",
 				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
 			}
 		},
 		"1": {
 			"0": {
-				"selection": "d",
+				"selection": "b",
 				"statement": ""
 			},
 			"1": {
-				"selection": "d",
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"2": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
 				"statement": ""
 			}
 		}
