@@ -12,7 +12,7 @@ function () {
   function T() {
     _classCallCheck(this, T);
 
-    this.page_title = "Mahlowat";
+    this.page_title = "Wohn-o-Mat";
     this.qa_modal_title = "Fragen &amp; Antworten";
     this.qa_modal_body = '<h4>Wer steht hinter dem Wohn-o-Mat?</h4>\
 					<p>Der Wohn-o-Mat wurde von einer Gruppe Studenten der Technischen Hochschule Lübeck konzipiert, um die Entscheidungsfindung bei einem anstehenden Umzug in Alter zu erleichtern und verschiedene Wohnformen zu präsentieren.</p>\
@@ -50,12 +50,10 @@ function () {
     this.btn_qa_modal_close = "Schließen";
     this.swype_info_message_text = "Wische, um manuell zwischen Thesen zu wechseln";
     this.btn_swype_info_ok = "OK";
-    this.start_subtitle = "Der Mahlowat ist ein Wahlpositions&shy;vergleichswerkzeug.";
-    this.start_explanatory_text = "<p>Der Mahlowat ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Gruppen zu vergleichen, die zur $WAHL\
-						antreten.\
-					</p>\
-					<p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>";
-    this.btn_start = "Mahlowat starten!";
+    this.start_subtitle = "Finde raus welche Wohnform zu dir passst!";
+    this.start_explanatory_text = "<p></p>\
+					<p></p>";
+    this.btn_start = "Wohn-o-Mat starten!";
     this.btn_start_show_qa = "Fragen &amp; Antworten";
     this.btn_toggle_thesis_more_text = "Erläuterung";
     this.btn_important = "These doppelt gewichten";
