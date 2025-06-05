@@ -50,7 +50,7 @@ function () {
     this.btn_qa_modal_close = "Schließen";
     this.swype_info_message_text = "Wische, um manuell zwischen Thesen zu wechseln";
     this.btn_swype_info_ok = "OK";
-    this.start_subtitle = "Finde raus welche Wohnform zu dir passst!";
+    this.start_subtitle = "Finde heraus welche Wohnform zu dir passt!";
     this.start_explanatory_text = "<p></p>\
 					<p></p>";
     this.btn_start = "Wohn-o-Mat starten!";
