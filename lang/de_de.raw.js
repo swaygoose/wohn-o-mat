@@ -10,12 +10,12 @@
 \
 					<h4>Woher stammen Profile der Wohnformen</h4>\
 					<p>Die Profile der Wohnformen wurden durch die Analyse von bestehenden Projekten in Deutschland gesammelt und mit Erfahrungen aus den Interviews untermalt.</p>\
-\					
+\
 					<h4>Wie werden die Punkte berechnet?</h4>\
 					<p>Deine Antworten werden mit den vorgegebenen Profilen der Wohnformen verglichen.</p>\
 					<ul>\
 						<li>Stimmt deine Antwort mit der Eigenschaft der Wohnform überein, werden dieser 2 Punkte gutgeschrieben;</li>\
-						<li>Weicht deine Antwort mit der Eigenschaft der Wohnform leicht ab (Zustimmung/Neutral oder Neutral/Ablehnung), werden dieser 1 Punkt gutgeschrieben;</li>
+						<li>Weicht deine Antwort mit der Eigenschaft der Wohnform leicht ab (Zustimmung/Neutral oder Neutral/Ablehnung), werden dieser 1 Punkt gutgeschrieben;</li>\
 						<li>Sind deine Antwort mit der Eigenschaft der Wohnform entgegengesetzt oder ist die Eigenschaft der Wohnform in diesem Falle unklar, dann werde keine Punkte gutgeschrieben.</li>\
 					</ul>\
 					<p>Eine These, die du übersprungen hast, wird nicht gewertet. Die erreichbare Höchstpunktzahl wird dadurch geringer.</p>\
