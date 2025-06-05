@@ -38,12 +38,9 @@
     this.btn_qa_modal_close = "Schließen";
     this.swype_info_message_text = "Wische, um manuell zwischen Thesen zu wechseln";
     this.btn_swype_info_ok = "OK";
-    this.start_subtitle = "Der Mahlowat ist ein Wahlpositions&shy;vergleichswerkzeug.";
-    this.start_explanatory_text = "<p>Der Mahlowat ermöglicht es dir, deine Meinung zu ausgewählten Thesen mit denen der Gruppen zu vergleichen, die zur $WAHL\
-						antreten.\
-					</p>\
-					<p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>";
-    this.btn_start = "Mahlowat starten!";
+    this.start_subtitle = "Der Wohn-o-Mat ist ein Umfragetool.";
+    this.start_explanatory_text = "<p>Der Wohn-o-Mat ermöglicht es dir herauszufinden, welche Wohnform zu deinen Wohnbedürfnissen passen könnte.<p>\";
+    this.btn_start = "Wohn-o-Mat starten!";
     this.btn_start_show_qa = "Fragen &amp; Antworten";
     this.btn_toggle_thesis_more_text = "Erläuterung";
     this.btn_important = "These doppelt gewichten";
