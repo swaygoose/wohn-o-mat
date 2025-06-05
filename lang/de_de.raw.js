@@ -1,31 +1,22 @@
-class T {
+5class T {
   constructor() {
-    this.page_title = "Mahlowat";
+    this.page_title = "Wohn-o-Mat";
     this.qa_modal_title = "Fragen &amp; Antworten";
-    this.qa_modal_body = '<h4>Wer steht hinter dem Mahlowat?</h4>\
-					<p>Lorem Ipsum.</p>\
+    this.qa_modal_body = '<h4>Wer steht hinter dem Wohn-o-Mat?</h4>\
+					<p>Der Wohn-o-Mat wurde von einer Gruppe Studenten der Technischen Hochschule Lübeck konzipiert, um die Entscheidungsfindung bei einem anstehenden Umzug in Alter zu erleichtern und verschiedene Wohnformen zu präsentieren.</p>\
 \
 					<h4>Wer hat die Thesen erarbeitet?</h4>\
-					<p>Lorem Ipsum.</p>\
+					<p>Durch die Auswertung von qualitativen Interviews wurde ein Pool an Bedürfnissen und Forderungen von älteren, umziehenden Menschen erarbeitet, aus welchem dann die Fragen und Thesen entworfen wurden.</p>\
 \
-					<h4>Woher stammen die Positionen der Gruppen?</h4>\
-					<p>Den an der Wahl teilnehmenden Gruppen wurden die Thesen mit der Bitte um Stellungnahme zugeleitet. Neben der reinen\
-						Positionierung (Zustimmung/Neutral/Ablehnung/Keine Stellungnahme) konnten sie ihre Position auch in einem kurzen Absatz\
-						erläutern.\
-					</p>\
-					<p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>\
-\
-					<h4>Von welcher Wahl reden wir hier überhaupt?</h4>\
-					<p>Lorem Ipsum.</p>\
-\
+					<h4>Woher stammen Profile der Wohnformen</h4>\
+					<p>Die Profile der Wohnformen wurden durch die Analyse von bestehenden Projekten in Deutschland gesammelt und mit Erfahrungen aus den Interviews untermalt.</p>\
+\					
 					<h4>Wie werden die Punkte berechnet?</h4>\
-					<p>Deine Antworten werden mit den vorgegebenen Antworten der Gruppen abgeglichen.</p>\
+					<p>Deine Antworten werden mit den vorgegebenen Profilen der Wohnformen verglichen.</p>\
 					<ul>\
-						<li>Stimmt die Antwort überein, werden der Gruppe 2 Punkte gutgeschrieben;</li>\
-						<li>Weicht die Antwort leicht ab (Zustimmung/Neutral oder Neutral/Ablehnung), wird der Gruppe 1 Punkt gutgeschrieben;</li>\
-						<li>Sind die Antworten entgegengesetzt oder hat eine Gruppe eine These nicht beantwortet, gibt es keine Punkte für die\
-							Gruppe.\
-						</li>\
+						<li>Stimmt deine Antwort mit der Eigenschaft der Wohnform überein, werden dieser 2 Punkte gutgeschrieben;</li>\
+						<li>Weicht deine Antwort mit der Eigenschaft der Wohnform leicht ab (Zustimmung/Neutral oder Neutral/Ablehnung), werden dieser 1 Punkt gutgeschrieben;</li>
+						<li>Sind deine Antwort mit der Eigenschaft der Wohnform entgegengesetzt oder ist die Eigenschaft der Wohnform in diesem Falle unklar, dann werde keine Punkte gutgeschrieben.</li>\
 					</ul>\
 					<p>Eine These, die du übersprungen hast, wird nicht gewertet. Die erreichbare Höchstpunktzahl wird dadurch geringer.</p>\
 					<p>Eine These, die doppelt gewichtet werden soll, wird doppelt gewichtet, das heißt, für sie wird die doppelte Punktzahl\
