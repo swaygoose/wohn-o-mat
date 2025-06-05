@@ -2,7 +2,7 @@
   constructor() {
     this.page_title = "Wohn-o-Mat";
     this.qa_modal_title = "Fragen &amp; Antworten";
-    this.qa_modal_body = '<h4>Wer steht hinter dem Wohn-o-Mat?</h4>\
+    this.qa_modal_body = '<h4>Wer steht eigentlich hinter dem Wohn-o-Mat?</h4>\
 					<p>Der Wohn-o-Mat wurde von einer Gruppe Studenten der Technischen Hochschule Lübeck konzipiert, um die Entscheidungsfindung bei einem anstehenden Umzug in Alter zu erleichtern und verschiedene Wohnformen zu präsentieren.</p>\
 \
 					<h4>Wer hat die Thesen erarbeitet?</h4>\
